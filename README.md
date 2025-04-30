@@ -19,7 +19,7 @@ This is a basic e-commerce web application. The goal is to provide a simple and 
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ecommerce-app.git
+git clone https://github.com/Bernardooq/ecommerce-webapp.git
 cd ecommerce-app
 npm install
 npm run dev
